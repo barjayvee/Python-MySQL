@@ -1,10 +1,10 @@
-# Python-MySQL
+# Python MySQL Tutorial
 Python MySQL Connetion \
 Learn to connect your Python program to MySQL database. \
 \
 Applications: \
 PyCharm: \
-https://www.jetbrains.com/pycharm/
+https://www.jetbrains.com/pycharm/ \
 XAMPP Control Panel: \
 https://www.apachefriends.org/download.html
 
